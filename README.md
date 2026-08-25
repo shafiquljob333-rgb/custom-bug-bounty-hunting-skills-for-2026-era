@@ -1,13 +1,4 @@
 # Custom-Bug-Bounty-Hunting-Skills-For-2026-Era
-<div align="center">
-https://img.shields.io/badge/version-2026.1.0-blue
-https://img.shields.io/badge/license-MIT-green
-https://img.shields.io/badge/status-active-brightgreen
-https://img.shields.io/badge/PRs-welcome-orange
-
-The ultimate collection of agentic, AI‑driven skills for next‑generation bug bounty hunting with unmatched accuracy.
-
-</div>
 🚀 Overview
 Welcome to the Custom Bug Bounty Hunting Skills for 2026 Era repository.
 This project is a meticulously curated, production‑ready toolkit that equips security researchers, bug bounty hunters, and red teams with agentic capabilities—autonomous, self‑improving, and highly accurate hunting methodologies designed for the evolving threat landscape of 2026.
