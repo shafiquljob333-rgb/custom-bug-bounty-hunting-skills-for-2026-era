@@ -26,6 +26,9 @@ Plug‑and‑play adapters for popular tools like Burp Suite, Caido, Nuclei, and
 
 AutoGPT).
 
+**JUST DOWNLOAD THE ZIP AND EXTRACT HERE THEN YOU CAN USE ALL SKILLS WITH YOUR AI AGENT**.
+
+
 🧠 Agentic Bug Bounty Hunting – How It Works
 The repository is built around the concept of agentic hunting: an AI agent (or a human assisted by AI) follows a structured yet adaptive workflow:
 
