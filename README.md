@@ -1,4 +1,4 @@
-# custom-bug-bounty-hunting-skills-for-2026-era
+# Custom-Bug-Bounty-Hunting-Skills-For-2026-Era
 <div align="center">
 https://img.shields.io/badge/version-2026.1.0-blue
 https://img.shields.io/badge/license-MIT-green
