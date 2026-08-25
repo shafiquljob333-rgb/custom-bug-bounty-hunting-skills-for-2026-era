@@ -12,6 +12,7 @@ This project is a meticulously curated, production‑ready toolkit that equips s
 Built on the latest advancements in AI, automation, and offensive security, this repository provides a comprehensive suite of skills, prompt templates, decision trees, and integration modules that enable both human operators and AI agents to discover, verify, and report vulnerabilities faster and with greater precision than ever before.
 
 ✨ Key Features
+
 Agentic Architecture
 Skills are designed to be executed by autonomous agents (e.g., LLM‑based hunters) with minimal human intervention. Each skill includes clear triggers, success criteria, and fallback strategies.
 
@@ -34,6 +35,7 @@ AutoGPT).
 
 
 🧠 Agentic Bug Bounty Hunting – How It Works
+
 The repository is built around the concept of agentic hunting: an AI agent (or a human assisted by AI) follows a structured yet adaptive workflow:
 
 Perceive – Gather target information using reconnaissance skills.
@@ -60,12 +62,15 @@ Output schema – Standardized format for integration.
 
 
 🔒 Security & Ethics
+
 This project is intended for legal security testing only. Always obtain proper authorization before testing any target. The maintainers are not responsible for misuse of the skills provided.
 
 📄 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
 🌟 Acknowledgements
+
 Inspired by the global bug bounty community.
 
 Built with ❤️ for the hunters of tomorrow.
